@@ -7,6 +7,7 @@ public class myh {
         int i = 1;
         System.out.println(i);
 
+        System.out.println("qqqqq");
 
     }
 }
